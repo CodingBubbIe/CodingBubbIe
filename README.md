@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodingBubbIe
 - 👀 I’m interested in Game Development and basic coding
 - 🌱 I’m currently learning Python
-- 💞️ Support me by donating! 
+- 💞️ Support me by buying a coffee!
 - 📫 How to reach me ...
